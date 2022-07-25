@@ -21,7 +21,7 @@ void keyboardDown(unsigned char key, int x, int y);
 // Use new drawing method
 #define DRAWWITHTEXTURE
 
-__int8 screenData[SCREEN_HEIGHT][SCREEN_WIDTH][3];
+unsigned int screenData[SCREEN_HEIGHT][SCREEN_WIDTH][3];
 void setupTexture();
 
 int main(int argc, char **argv) {
