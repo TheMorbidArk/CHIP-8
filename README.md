@@ -57,8 +57,8 @@ make
 
 ## 运行截图
 
-[img/Game1.png · TheMorbidArk/Chip-8 - 码云 - 开源中国 (gitee.com)](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game1.png)
+![](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game1.png)
 
-[img/Game2.png · TheMorbidArk/Chip-8 - 码云 - 开源中国 (gitee.com)](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game2.png)
+![](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game2.png)
 
-[img/Game3.png · TheMorbidArk/Chip-8 - 码云 - 开源中国 (gitee.com)](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game3.png)
+![](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game3.png)
