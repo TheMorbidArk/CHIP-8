@@ -1,5 +1,5 @@
 #include <cstdio>
-#include <glut.h>
+#include <GL/glut.h>
 #include "chip_8.h"
 
 // Display size
@@ -20,8 +20,8 @@ void keyboardDown(unsigned char key, int x, int y);
 
 // Use new drawing method
 #define DRAWWITHTEXTURE
-typedef unsigned __int8 u8;
-u8 screenData[SCREEN_HEIGHT][SCREEN_WIDTH][3];
+
+__int8 screenData[SCREEN_HEIGHT][SCREEN_WIDTH][3];
 void setupTexture();
 
 int main(int argc, char **argv) {
