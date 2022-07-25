@@ -54,6 +54,9 @@ sudo apt-get install gcc g++ gdb make git build-essential freeglut3 freeglut3-de
 make
 ./main ROMs/[name] # [name] -> 游戏ROM包名
 ```
+## 参考链接
+[CHIP-8 WIKI](https://en.wikipedia.org/wiki/CHIP-8#Opcode_table)
+[How to write an emulator (CHIP-8 interpreter)](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 
 ## 运行截图
 
