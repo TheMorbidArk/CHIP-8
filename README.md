@@ -57,8 +57,8 @@ make
 
 ## 运行截图
 
-![](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game1.png)
+![](https://github.com/TheMorbidArk/CHIP-8/blob/master/img/Game1.png)
 
-![](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game2.png)
+![](https://github.com/TheMorbidArk/CHIP-8/blob/master/img/Game2.png)
 
-![](https://gitee.com/TheMorbidArk/chip-8/blob/master/img/Game3.png)
+![](https://github.com/TheMorbidArk/CHIP-8/blob/master/img/Game3.png)
